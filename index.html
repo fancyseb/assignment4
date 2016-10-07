@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+	<title>ISL Teams</title>	
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="node_modules\angular/angular.min.js"></script>
+    <script src="node_modules\angular-ui-router\release/angular-ui-router.min.js"></script> 
+    <link rel="stylesheet" href="node_modules\bootstrap\dist\css/bootstrap.min.css"> 
+    <script src="js/script.js"></script>
+	<style type="text/css">
+		.img-thumbnail{
+			height: 236px;
+			width: 304px;
+		}
+		nav ul li{
+		display: inline-block;
+		}
+		.teamName{
+			font-size: 150%;
+		}
+		.desc{
+			margin: 10% 0 ;
+		}
+		.magnified{
+			width: 620px;
+			height: 430px;
+		}		
+	</style>	
+</head>
+<body ui-view ng-controller="teamController" >
+    <h1 class="col-xs-12 text-center">ISL Teams</h1>
+    <nav class="col-xs-12 text-center">
+    	<ul>
+    	 <li ng-repeat="i in data.teams">
+    	   <a ui-sref="team({key:$index})"><img  src="{{i.url}}" class="img-thumbnail" alt="TeamImage"></a>   	
+    	   <p class="teamName" ui-sref="team({key:$index})">{{i.name}}</p>
+    	 </li>    		
+    	</ul>
+    </nav>
+</body>
+</html>

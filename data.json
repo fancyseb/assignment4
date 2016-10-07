@@ -1,0 +1,35 @@
+{
+	"teams":[{
+		"name":"NorthEast United FC",
+		"url":"../images/northeast.jpg",
+		"description":"NorthEast United Football Club is an Indian Super League football franchise based in Guwahati, Assam.The club claims to represent the 8 states of India known as North East India: Assam, Nagaland, Manipur, Meghalaya, Sikkim, Arunachal Pradesh, Tripura and Mizoram. The team is owned and operated by Bollywood actor John Abraham.[1] The club is currently managed by Nelo Vingada."
+	},{
+		"name":"Kerala Blasters FC",
+		"url":"../images/kerala.png",
+		"description":"The team was founded on 27 May 2014 by former Indian cricket captain Sachin Tendulkar as one of the initial teams in the Indian Super League, after Tendulkar, along with Prasad V Potluri, won the rights to the Kochi franchise.Prasad V Potluri sold his shares to a consortium including Telugu superstars Chiranjeevi and Akkineni Nagarjuna."
+	},{
+		"name":"Chennaiyin FC",
+		"url":"../images/chennai.png",
+		"description":"Began to play in October 2014.The franchise is owned by Vita Dani, Bollywood actor Abhishek Bachchan and Indian cricketer Mahendra Singh Dhoni.Its manager is Italian World Cup-winning defender Marco Materazzi and former Liverpool, Roma left back John Arne Riise is the marquee player "
+	},{
+		"name":"FC Goa",
+		"url":"../images/goa.jpg",
+		"description":"FC Goa (also known as The Gaurs) is an Indian professional football franchise based in Goa that competes in the Indian Super League. The club was launched on 26 August 2014. The team is owned by Goan Football Club Pvt. Ltd. which consists of Jaydev Mody, Venugopal Dhoot and Virat Kohli."
+	},{
+		"name":"FC Pune City",
+		"url":"../images/pune.jpg",
+		"description":"Indian Super League football franchise based in Pune, Maharashtra that began play in October 2014 during the inaugural season of the Indian Super League.The team is owned and operated by Bollywood actor Hrithik Roshan, Wadhawan Group and Italian football club ACF Fiorentina."
+	},{
+		"name":"Mumbai City FC",
+		"url":"../images/mumbai.jpg",
+		"description":"Mumbai City Football Club is an Indian Super League football franchise in Mumbai, Maharashtra, launched in August 2014 during the ISL's inaugural season.The team is co-owned by Bollywood actor Ranbir Kapoor and Bimal Parekh, a Chartered Accountan"
+	},{
+		"name":"Delhi Dynamos FC",
+		"url":"../images/delhi.png",
+		"description":"Delhi Dynamos Football Club is an Indian Super League football franchise in Delhi that began play in October 2014 during the inaugural season of the Indian Super League.The team is owned and operated by Delhi-based DEN Networks"
+	},{
+		"name":"Atlético de Kolkata",
+		"url":"../images/kolkata.jpg",
+		"description":"It is an Indian Super League football franchise based in Kolkata, West Bengal. It was established on 7 May 2014 as the first ever Indian Super League team. The team is owned by Kolkata Games and Sports Pvt. Ltd. which consists of Former Indian cricketer and former Indian cricket captain and current President of the Cricket Association of Bengal Sourav Ganguly, Spanish La Liga club Atlético Madrid, alongside businessmen Harshavardhan Neotia, Sanjiv Goenka and Utsav Parekh. The team's name and colours are derived from their Spanish partner"
+	}]
+}

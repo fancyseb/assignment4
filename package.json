@@ -1,0 +1,20 @@
+{
+  "name": "548501_assignment4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular-ui-router": "^0.3.1",
+    "bootstrap": "^3.3.7",
+    "bower": "^1.7.9",
+    "gulp-git": "^1.11.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
